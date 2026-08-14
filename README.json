@@ -1,0 +1,410 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Notable Vulnerabilities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Conference Talks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bluetooth Security Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bettercap Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T13:47:49Z",
+            "owner": "bettercap",
+            "repo": "bettercap",
+            "stars": 19788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sparrow-wifi Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T20:57:41Z",
+            "owner": "ghostop14",
+            "repo": "sparrow-wifi",
+            "stars": 1607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sniffle Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-25T01:32:09Z",
+            "owner": "nccgroup",
+            "repo": "Sniffle",
+            "stars": 1157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bleah (deprecated, replaced by Bettercap) Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2019-02-19T22:09:03Z",
+            "owner": "evilsocket",
+            "repo": "bleah",
+            "stars": 1094
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BTLEmap Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-06-11T10:45:52Z",
+            "owner": "seemoo-lab",
+            "repo": "BTLEmap",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "btlesniffer Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-04T14:51:53Z",
+            "owner": "scipag",
+            "repo": "btle-sniffer",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bluelog Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-07-16T23:52:54Z",
+            "owner": "MS3FGX",
+            "repo": "Bluelog",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "btsniffer Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-04-04T15:19:13Z",
+            "owner": "bsnet",
+            "repo": "btsniffer",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blue Hydra Github",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Scanners & Sniffers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Btlejack Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-04T20:31:17Z",
+            "owner": "virtualabs",
+            "repo": "btlejack",
+            "stars": 2104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crackle Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-08-26T08:56:39Z",
+            "owner": "mikeryan",
+            "repo": "crackle",
+            "stars": 967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLE-Replay Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-08-25T00:10:18Z",
+            "owner": "nccgroup",
+            "repo": "BLE-Replay",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "btcrack Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2014-05-12T22:37:15Z",
+            "owner": "mikeryan",
+            "repo": "btcrack",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLESuite-CLI Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-08-01T16:58:34Z",
+            "owner": "nccgroup",
+            "repo": "BLESuite-CLI",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Exploit Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Toothpicker Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-21T17:23:27Z",
+            "owner": "seemoo-lab",
+            "repo": "toothpicker",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bss (unsupported) Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-11-05T12:22:55Z",
+            "owner": "hllhll",
+            "repo": "BluetoothStackSmasher",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Fuzzing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nexmon Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-13T17:06:43Z",
+            "owner": "seemoo-lab",
+            "repo": "nexmon",
+            "stars": 2870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InternalBlue Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-21T15:45:36Z",
+            "owner": "seemoo-lab",
+            "repo": "internalblue",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frankenstein Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-02-07T21:31:59Z",
+            "owner": "seemoo-lab",
+            "repo": "frankenstein",
+            "stars": 465
+          }
+        }
+      ],
+      "title": "Firmware Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BTLE (for SDRs) Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-08T19:24:34Z",
+            "owner": "JiaoXianjun",
+            "repo": "BTLE",
+            "stars": 925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BtleJuice Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-10-03T06:26:53Z",
+            "owner": "DigitalSecurity",
+            "repo": "btlejuice",
+            "stars": 850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gattacker Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-31T05:53:09Z",
+            "owner": "securing",
+            "repo": "gattacker",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Unsupported) Btproxy Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-24T12:54:20Z",
+            "owner": "conorpp",
+            "repo": "btproxy",
+            "stars": 541
+          }
+        }
+      ],
+      "title": "Man-in-the-middle & Packet Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Uberducky (BLE-triggered rubber ducky) Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-12-05T17:47:37Z",
+            "owner": "mikeryan",
+            "repo": "uberducky",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLEBoy: BLE testing platform Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-10-25T22:14:04Z",
+            "owner": "nccgroup",
+            "repo": "BLEBoy",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "Bluetooth Core Specifications Link\nNIST Special Publication (SP) 800-121 revision 2 Link",
+      "items": [],
+      "title": "Primary Reference Materials"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T01:46:57.914Z",
+    "original_repository": "engn33r/awesome-bluetooth-security",
+    "original_repository_sha": "9490d062e0c0f5ce76ada852ff54618ba0e7dc2f",
+    "enhanced_repository": "enhansome/enhansome-bluetooth-security",
+    "enhanced_repository_description": null,
+    "title": "Awesome Bluetooth Security (BR, EDR, LE, and Mesh) with stars"
+  }
+}

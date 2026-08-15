@@ -29,7 +29,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19788
+            "stars": 19792
           }
         },
         {
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T01:46:57.914Z",
+    "last_updated": "2026-08-15T01:06:10.451Z",
     "original_repository": "engn33r/awesome-bluetooth-security",
     "original_repository_sha": "9490d062e0c0f5ce76ada852ff54618ba0e7dc2f",
     "enhanced_repository": "enhansome/enhansome-bluetooth-security",

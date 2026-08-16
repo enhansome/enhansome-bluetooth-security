@@ -1,6 +1,6 @@
 # Awesome Bluetooth Security (BR, EDR, LE, and Mesh) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,800 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,152 | 🐛 100 | 📅 2026-06-30
 
 This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.
 
@@ -172,11 +172,11 @@ Submit a PR if something is missing!
 
 ### Scanners & Sniffers
 
-* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 19,792 | 🐛 44 | 🌐 Go | 📅 2026-08-13
+* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 19,802 | 🐛 44 | 🌐 Go | 📅 2026-08-13
 * sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,607 | 🐛 52 | 🌐 Python | 📅 2026-07-20
 * Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,157 | 🐛 31 | 🌐 Python | 📅 2025-09-25
 * bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah) ⚠️ Archived
-* BTLEmap [Github](https://github.com/seemoo-lab/BTLEmap) ⭐ 215 | 🐛 1 | 🌐 Swift | 📅 2024-06-11
+* BTLEmap [Github](https://github.com/seemoo-lab/BTLEmap) ⭐ 216 | 🐛 1 | 🌐 Swift | 📅 2024-06-11
 * btlesniffer [Github](https://github.com/scipag/btle-sniffer) ⭐ 168 | 🐛 3 | 🌐 Python | 📅 2023-07-04
 * bluelog [Github](https://github.com/MS3FGX/Bluelog) ⭐ 135 | 🐛 7 | 🌐 C | 📅 2019-07-16
 * btsniffer [Github](https://github.com/bsnet/btsniffer) ⭐ 56 | 🐛 1 | 🌐 C++ | 📅 2020-04-04
@@ -202,7 +202,7 @@ Submit a PR if something is missing!
 
 * obexstress [Download](http://bluetooth-pentest.narod.ru/software/obexstress.py)
 * bluesnarfer [Gitlab](https://gitlab.com/kalilinux/packages/bluesnarfer)
-* nOBEX [Github](https://github.com/nccgroup/nOBEX) ⭐ 96 | 🐛 7 | 🌐 Python | 📅 2020-10-19
+* nOBEX [Github](https://github.com/nccgroup/nOBEX) ⭐ 97 | 🐛 7 | 🌐 Python | 📅 2020-10-19
 
 ### Fuzzing
 
@@ -235,7 +235,7 @@ Submit a PR if something is missing!
 
 ### Denial of Service
 
-* Blue Deauth [Github](https://github.com/its0x08/blue-deauth) ⭐ 399 | 🐛 0 | 🌐 Shell | 📅 2026-04-14
+* Blue Deauth [Github](https://github.com/its0x08/blue-deauth) ⭐ 400 | 🐛 0 | 🌐 Shell | 📅 2026-04-14
 
 ### Honeypot
 
@@ -283,4 +283,4 @@ NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/pub
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

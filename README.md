@@ -1,6 +1,6 @@
 # Awesome Bluetooth Security (BR, EDR, LE, and Mesh) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,441 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,656 | 🐛 102 | 📅 2026-08-18
 
 This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.
 
@@ -172,9 +172,9 @@ Submit a PR if something is missing!
 
 ### Scanners & Sniffers
 
-* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 19,812 | 🐛 44 | 🌐 Go | 📅 2026-08-13
+* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 19,817 | 🐛 44 | 🌐 Go | 📅 2026-08-13
 * sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,608 | 🐛 52 | 🌐 Python | 📅 2026-07-20
-* Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,157 | 🐛 31 | 🌐 Python | 📅 2025-09-25
+* Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,158 | 🐛 31 | 🌐 Python | 📅 2025-09-25
 * bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah) ⚠️ Archived
 * BTLEmap [Github](https://github.com/seemoo-lab/BTLEmap) ⭐ 216 | 🐛 1 | 🌐 Swift | 📅 2024-06-11
 * btlesniffer [Github](https://github.com/scipag/btle-sniffer) ⭐ 168 | 🐛 3 | 🌐 Python | 📅 2023-07-04

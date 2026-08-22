@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-13T13:47:49Z",
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19822
+                "stars": 19835
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-20T20:57:41Z",
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
-                "stars": 1610
+                "stars": 1612
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2024-08-04T20:31:17Z",
                 "owner": "virtualabs",
                 "repo": "btlejack",
-                "stars": 2105
+                "stars": 2106
               }
             },
             {
@@ -263,7 +263,7 @@
                 "last_commit": "2026-07-13T17:06:43Z",
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2871
+                "stars": 2873
               }
             },
             {
@@ -410,7 +410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T01:10:11.860Z",
+    "last_updated": "2026-08-22T01:06:18.281Z",
     "original_repository": "engn33r/awesome-bluetooth-security",
     "original_repository_id": 273961365,
     "original_repository_sha": "9490d062e0c0f5ce76ada852ff54618ba0e7dc2f",

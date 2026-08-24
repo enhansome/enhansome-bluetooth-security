@@ -1,6 +1,6 @@
 # Awesome Bluetooth Security (BR, EDR, LE, and Mesh) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,309 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21
 
 This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.
 
@@ -172,9 +172,9 @@ Submit a PR if something is missing!
 
 ### Scanners & Sniffers
 
-* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 19,849 | 🐛 44 | 🌐 Go | 📅 2026-08-13
-* sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,613 | 🐛 52 | 🌐 Python | 📅 2026-07-20
-* Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,158 | 🐛 31 | 🌐 Python | 📅 2025-09-25
+* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 19,853 | 🐛 44 | 🌐 Go | 📅 2026-08-13
+* sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,612 | 🐛 52 | 🌐 Python | 📅 2026-07-20
+* Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,159 | 🐛 31 | 🌐 Python | 📅 2025-09-25
 * bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah) ⚠️ Archived
 * BTLEmap [Github](https://github.com/seemoo-lab/BTLEmap) ⭐ 216 | 🐛 1 | 🌐 Swift | 📅 2024-06-11
 * btlesniffer [Github](https://github.com/scipag/btle-sniffer) ⭐ 168 | 🐛 3 | 🌐 Python | 📅 2023-07-04
@@ -200,9 +200,9 @@ Submit a PR if something is missing!
 
 ### OBEX Attack Tools
 
+* nOBEX [Github](https://github.com/nccgroup/nOBEX) ⭐ 97 | 🐛 7 | 🌐 Python | 📅 2020-10-19
 * obexstress [Download](http://bluetooth-pentest.narod.ru/software/obexstress.py)
 * bluesnarfer [Gitlab](https://gitlab.com/kalilinux/packages/bluesnarfer)
-* nOBEX [Github](https://github.com/nccgroup/nOBEX) ⭐ 97 | 🐛 7 | 🌐 Python | 📅 2020-10-19
 
 ### Fuzzing
 
@@ -225,8 +225,8 @@ Submit a PR if something is missing!
 
 ### Device Spoofing
 
-* Spooftooph [Gitlab](https://gitlab.com/kalilinux/packages/spooftooph)
 * Bluefog [Github](https://github.com/MS3FGX/Bluefog) ⭐ 30 | 🐛 0 | 🌐 C | 📅 2013-04-01
+* Spooftooph [Gitlab](https://gitlab.com/kalilinux/packages/spooftooph)
 
 ### Ping & Signal Strength Tools
 
@@ -235,11 +235,11 @@ Submit a PR if something is missing!
 
 ### Denial of Service
 
-* Blue Deauth [Github](https://github.com/its0x08/blue-deauth) ⭐ 407 | 🐛 0 | 🌐 Shell | 📅 2026-04-14
+* Blue Deauth [Github](https://github.com/its0x08/blue-deauth) ⭐ 408 | 🐛 0 | 🌐 Shell | 📅 2026-04-14
 
 ### Honeypot
 
-* bluepot [Github](https://github.com/andrewmichaelsmith/bluepot/) ⭐ 277 | 🐛 4 | 🌐 Java | 📅 2026-04-02
+* bluepot [Github](https://github.com/andrewmichaelsmith/bluepot/) ⭐ 278 | 🐛 4 | 🌐 Java | 📅 2026-04-02
 
 ### Android Apps
 

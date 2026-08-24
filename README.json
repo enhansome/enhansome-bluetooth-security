@@ -4,6 +4,42 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Pairing Method Confusion",
+          "description": "2020 Site Paper No Video SIG Notice BR/EDR/LE CVE-2020-10134",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292780858,
+            "language": "C",
+            "last_commit": "2021-01-07T16:54:45Z",
+            "owner": "maxdos64",
+            "repo": "BThack",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InjectaBLE",
+          "description": "IEEE DSN 2021 Site Paper No Video SIG Notice LE CVE-2021-31615",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 376818048,
+            "language": "C",
+            "last_commit": "2022-06-23T14:10:54Z",
+            "owner": "RCayre",
+            "repo": "injectable-firmware",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "Notable Vulnerabilities"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -17,7 +53,7 @@
                 "last_commit": "2026-08-13T13:47:49Z",
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19849
+                "stars": 19853
               }
             },
             {
@@ -32,7 +68,7 @@
                 "last_commit": "2026-07-20T20:57:41Z",
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
-                "stars": 1613
+                "stars": 1612
               }
             },
             {
@@ -47,7 +83,7 @@
                 "last_commit": "2025-09-25T01:32:09Z",
                 "owner": "nccgroup",
                 "repo": "Sniffle",
-                "stars": 1158
+                "stars": 1159
               }
             },
             {
@@ -216,6 +252,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "nOBEX Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67587022,
+                "language": "Python",
+                "last_commit": "2020-10-19T22:32:00Z",
+                "owner": "nccgroup",
+                "repo": "nOBEX",
+                "stars": 97
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OBEX Attack Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Toothpicker Github",
               "description": null,
               "children": [],
@@ -372,6 +430,94 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Bluefog Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7276477,
+                "language": "C",
+                "last_commit": "2013-04-01T03:46:08Z",
+                "owner": "MS3FGX",
+                "repo": "Bluefog",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Device Spoofing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "blue_sonar Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134788714,
+                "language": "Shell",
+                "last_commit": "2020-10-13T14:53:33Z",
+                "owner": "ZeroChaos-",
+                "repo": "blue_sonar",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ping & Signal Strength Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Blue Deauth Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258646917,
+                "language": "Shell",
+                "last_commit": "2026-04-14T08:28:13Z",
+                "owner": "its0x08",
+                "repo": "blue-deauth",
+                "stars": 408
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Denial of Service"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bluepot Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16572095,
+                "language": "Java",
+                "last_commit": "2026-04-02T19:04:35Z",
+                "owner": "andrewmichaelsmith",
+                "repo": "bluepot",
+                "stars": 278
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Honeypot"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Uberducky (BLE-triggered rubber ducky) Github",
               "description": null,
               "children": [],
@@ -410,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T01:09:03.363Z",
+    "last_updated": "2026-08-24T14:25:46.530Z",
     "original_repository": "engn33r/awesome-bluetooth-security",
     "original_repository_id": 273961365,
     "original_repository_sha": "9490d062e0c0f5ce76ada852ff54618ba0e7dc2f",

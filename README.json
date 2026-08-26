@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-13T13:47:49Z",
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19856
+                "stars": 19858
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2025-09-25T01:32:09Z",
                 "owner": "nccgroup",
                 "repo": "Sniffle",
-                "stars": 1161
+                "stars": 1163
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2026-07-13T17:06:43Z",
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2874
+                "stars": 2875
               }
             },
             {
@@ -373,7 +373,7 @@
                 "last_commit": "2026-06-08T19:24:34Z",
                 "owner": "JiaoXianjun",
                 "repo": "BTLE",
-                "stars": 927
+                "stars": 928
               }
             },
             {
@@ -484,7 +484,7 @@
                 "last_commit": "2026-04-14T08:28:13Z",
                 "owner": "its0x08",
                 "repo": "blue-deauth",
-                "stars": 410
+                "stars": 414
               }
             }
           ],
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:44.998Z",
+    "last_updated": "2026-08-26T01:10:19.278Z",
     "original_repository": "engn33r/awesome-bluetooth-security",
     "original_repository_id": 273961365,
     "original_repository_sha": "9490d062e0c0f5ce76ada852ff54618ba0e7dc2f",

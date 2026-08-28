@@ -1,6 +1,6 @@
 # Awesome Bluetooth Security (BR, EDR, LE, and Mesh) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,363 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,673 | 🐛 105 | 📅 2026-08-21
 
 This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.
 
@@ -172,8 +172,8 @@ Submit a PR if something is missing!
 
 ### Scanners & Sniffers
 
-* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 19,865 | 🐛 44 | 🌐 Go | 📅 2026-08-13
-* sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,614 | 🐛 52 | 🌐 Python | 📅 2026-07-20
+* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 19,870 | 🐛 44 | 🌐 Go | 📅 2026-08-13
+* sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,615 | 🐛 52 | 🌐 Python | 📅 2026-07-20
 * Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,166 | 🐛 31 | 🌐 Python | 📅 2025-09-25
 * bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah) ⚠️ Archived
 * BTLEmap [Github](https://github.com/seemoo-lab/BTLEmap) ⭐ 216 | 🐛 1 | 🌐 Swift | 📅 2024-06-11
@@ -187,7 +187,7 @@ Submit a PR if something is missing!
 
 ### Exploit Tools
 
-* Btlejack [Github](https://github.com/virtualabs/btlejack) ⭐ 2,107 | 🐛 28 | 🌐 Python | 📅 2024-08-04
+* Btlejack [Github](https://github.com/virtualabs/btlejack) ⭐ 2,108 | 🐛 28 | 🌐 Python | 📅 2024-08-04
 * crackle [Github](https://github.com/mikeryan/crackle) ⭐ 970 | 🐛 6 | 🌐 C | 📅 2021-08-26
 * BLE-Replay [Github](https://github.com/nccgroup/BLE-Replay) ⭐ 151 | 🐛 4 | 🌐 Python | 📅 2016-08-25
 * btcrack [Github](https://github.com/mikeryan/btcrack) ⭐ 53 | 🐛 1 | 🌐 C | 📅 2014-05-12
@@ -206,13 +206,13 @@ Submit a PR if something is missing!
 
 ### Fuzzing
 
-* Toothpicker [Github](https://github.com/seemoo-lab/toothpicker) ⭐ 245 | 🐛 1 | 🌐 Python | 📅 2021-09-21
+* Toothpicker [Github](https://github.com/seemoo-lab/toothpicker) ⭐ 246 | 🐛 1 | 🌐 Python | 📅 2021-09-21
 * bss (unsupported) [Github](https://github.com/hllhll/BluetoothStackSmasher) ⭐ 23 | 🐛 0 | 🌐 C | 📅 2015-11-05
 * Defensics (Commercial) [Link](https://www.synopsys.com/software-integrity/security-testing/fuzz-testing.html)
 
 ### Firmware Analysis
 
-* Nexmon [Github](https://github.com/seemoo-lab/nexmon/tree/bluetooth-wip) ⭐ 2,876 | 🐛 344 | 🌐 C | 📅 2026-07-13
+* Nexmon [Github](https://github.com/seemoo-lab/nexmon/tree/bluetooth-wip) ⭐ 2,879 | 🐛 344 | 🌐 C | 📅 2026-07-13
 * InternalBlue [Github](https://github.com/seemoo-lab/internalblue) ⭐ 785 | 🐛 21 | 🌐 Python | 📅 2024-08-21
 * Frankenstein [Github](https://github.com/seemoo-lab/frankenstein) ⭐ 465 | 🐛 8 | 🌐 C | 📅 2024-02-07
 
@@ -235,7 +235,7 @@ Submit a PR if something is missing!
 
 ### Denial of Service
 
-* Blue Deauth [Github](https://github.com/its0x08/blue-deauth) ⭐ 423 | 🐛 0 | 🌐 Shell | 📅 2026-04-14
+* Blue Deauth [Github](https://github.com/its0x08/blue-deauth) ⭐ 424 | 🐛 0 | 🌐 Shell | 📅 2026-04-14
 
 ### Honeypot
 
@@ -283,4 +283,4 @@ NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/pub
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

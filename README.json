@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 292780858,
             "language": "C",
+            "license": null,
             "last_commit": "2021-01-07T16:54:45Z",
+            "open_issues": 2,
             "owner": "maxdos64",
             "repo": "BThack",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T09:34:34.523Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom firmware for nrf52840-dongle, allowing to easily eavesdrop Bluetooth Low Energy communications and perform multiple active attacks based on InjectaBLE strategy.",
+            "homepage": null,
             "id": 376818048,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2022-06-23T14:10:54Z",
+            "open_issues": 5,
             "owner": "RCayre",
             "repo": "injectable-firmware",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T09:34:34.523Z"
         }
@@ -50,12 +60,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
+                "homepage": "https://www.bettercap.org/",
                 "id": 116576783,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T13:47:49Z",
+                "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19870
+                "stars": 19872,
+                "topics": [
+                  "ble",
+                  "deauthentication-attack",
+                  "dot11",
+                  "hacking",
+                  "hid",
+                  "mitm",
+                  "monitoring",
+                  "mousejack",
+                  "network-attacks",
+                  "password-sniffer",
+                  "pmkid",
+                  "proxy",
+                  "redteam",
+                  "redteaming",
+                  "rogue-ap",
+                  "security",
+                  "spoofing",
+                  "wifi",
+                  "wifi-security",
+                  "wpa2"
+                ]
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -66,12 +102,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux",
+                "homepage": null,
                 "id": 105939130,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-20T20:57:41Z",
+                "open_issues": 52,
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
-                "stars": 1615
+                "stars": 1615,
+                "topics": [
+                  "bluetooth",
+                  "hackrf",
+                  "mavlink",
+                  "sdr",
+                  "ubertooth",
+                  "wifi"
+                ]
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -82,12 +130,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sniffer for Bluetooth 5 and 4.x LE",
+                "homepage": "https://www.nccgroup.com/research-blog/sniffle-a-sniffer-for-bluetooth-5/",
                 "id": 202839525,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-09-25T01:32:09Z",
+                "open_issues": 31,
                 "owner": "nccgroup",
                 "repo": "Sniffle",
-                "stars": 1166
+                "stars": 1166,
+                "topics": [
+                  "ble",
+                  "bluetooth",
+                  "sniffer"
+                ]
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -98,12 +155,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repository is DEPRECATED, please use bettercap as this tool has been ported to its BLE modules.",
+                "homepage": null,
                 "id": 102279224,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2019-02-19T22:09:03Z",
+                "open_issues": 9,
                 "owner": "evilsocket",
                 "repo": "bleah",
-                "stars": 1094
+                "stars": 1094,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -114,12 +176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Nmap for Bluetooth Low Energy",
+                "homepage": null,
                 "id": 266068890,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-11T10:45:52Z",
+                "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "BTLEmap",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -130,12 +197,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Passively scan for Bluetooth Low Energy devices and attempt to fingerprint them",
+                "homepage": null,
                 "id": 85041884,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-04T14:51:53Z",
+                "open_issues": 3,
                 "owner": "scipag",
                 "repo": "btle-sniffer",
-                "stars": 168
+                "stars": 168,
+                "topics": [
+                  "bluetooth",
+                  "bluetooth-low-energy",
+                  "security",
+                  "security-audit",
+                  "security-hardening",
+                  "security-protocol",
+                  "security-scanner",
+                  "security-vulnerability",
+                  "sniffer",
+                  "sniffing",
+                  "wireless",
+                  "wireless-communication",
+                  "wireless-network"
+                ]
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -146,12 +232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly configurable Linux Bluetooth scanner with optional web interface.",
+                "homepage": "www.digifail.com/software/bluelog.shtml",
                 "id": 4756090,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2019-07-16T23:52:54Z",
+                "open_issues": 7,
                 "owner": "MS3FGX",
                 "repo": "Bluelog",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -162,12 +253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for discovering and de-anonymizing Classic Bluetooth connections",
+                "homepage": null,
                 "id": 246917414,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2020-04-04T15:19:13Z",
+                "open_issues": 1,
                 "owner": "bsnet",
                 "repo": "btsniffer",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             }
@@ -185,12 +281,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bluetooth Low Energy Swiss-army knife",
+                "homepage": null,
                 "id": 143916698,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-04T20:31:17Z",
+                "open_issues": 28,
                 "owner": "virtualabs",
                 "repo": "btlejack",
-                "stars": 2108
+                "stars": 2108,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -201,12 +302,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crack and decrypt BLE encryption",
+                "homepage": null,
                 "id": 16268083,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-08-26T08:56:39Z",
+                "open_issues": 6,
                 "owner": "mikeryan",
                 "repo": "crackle",
-                "stars": 970
+                "stars": 970,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -217,12 +323,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BLE-Replay is a Bluetooth Low Energy (BLE) peripheral assessment tool",
+                "homepage": null,
                 "id": 64342741,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-08-25T00:10:18Z",
+                "open_issues": 4,
                 "owner": "nccgroup",
                 "repo": "BLE-Replay",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -233,12 +344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bluetooth PIN and LINK-KEY Cracker",
+                "homepage": null,
                 "id": 19670467,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2014-05-12T22:37:15Z",
+                "open_issues": 1,
                 "owner": "mikeryan",
                 "repo": "btcrack",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -249,12 +365,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BLESuite_CLI is a command line tool to enable an easier way to test Bluetooth Low Energy (BLE) devices",
+                "homepage": null,
                 "id": 64342719,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2016-08-01T16:58:34Z",
+                "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BLESuite-CLI",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             }
@@ -272,12 +393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nOBEX allows emulating the PBAP, MAP, and HFP profiles to test vehicle infotainment systems and similar devices using these profiles",
+                "homepage": "https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/september/introducing-nobex-a-tool-for-testing-bluetooth-phone-and-messaging-profiles/",
                 "id": 67587022,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-10-19T22:32:00Z",
+                "open_issues": 7,
                 "owner": "nccgroup",
                 "repo": "nOBEX",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             }
@@ -295,12 +421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 254193415,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-21T17:23:27Z",
+                "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "toothpicker",
-                "stars": 246
+                "stars": 246,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -311,12 +442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clone and moddifications from http://www.secuobs.com/news/15022006-bss_0_8.shtml",
+                "homepage": null,
                 "id": 45608565,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2015-11-05T12:22:55Z",
+                "open_issues": 0,
                 "owner": "hllhll",
                 "repo": "BluetoothStackSmasher",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             }
@@ -334,12 +470,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more",
+                "homepage": null,
                 "id": 72093010,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-13T17:06:43Z",
+                "open_issues": 344,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2879
+                "stars": 2880,
+                "topics": [
+                  "broadcom",
+                  "firmware",
+                  "framework",
+                  "nexmon",
+                  "patching",
+                  "rpi",
+                  "smartphone"
+                ]
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -350,12 +499,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bluetooth experimentation framework for Broadcom and Cypress chips.",
+                "homepage": null,
                 "id": 147357670,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-21T15:45:36Z",
+                "open_issues": 21,
                 "owner": "seemoo-lab",
                 "repo": "internalblue",
-                "stars": 785
+                "stars": 785,
+                "topics": [
+                  "android",
+                  "ble",
+                  "bluetooth",
+                  "bluez",
+                  "broadcom",
+                  "cypress",
+                  "firmware",
+                  "ios",
+                  "linux",
+                  "macos",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -366,12 +532,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Broadcom and Cypress firmware emulation for fuzzing and further full-stack debugging",
+                "homepage": null,
                 "id": 254191670,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-07T21:31:59Z",
+                "open_issues": 8,
                 "owner": "seemoo-lab",
                 "repo": "frankenstein",
-                "stars": 465
+                "stars": 465,
+                "topics": [
+                  "arm",
+                  "bluetooth",
+                  "broadcom",
+                  "cypress",
+                  "heap",
+                  "qemu",
+                  "threadx"
+                ]
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             }
@@ -389,12 +568,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bluetooth Low Energy (BLE) packet sniffer and transmitter for both standard and non standard (raw bit) based on Software Defined Radio (SDR).",
+                "homepage": "http://sdr-x.github.io/",
                 "id": 22344046,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-08T19:24:34Z",
+                "open_issues": 17,
                 "owner": "JiaoXianjun",
                 "repo": "BTLE",
-                "stars": 928
+                "stars": 928,
+                "topics": [
+                  "angle-of-arrival",
+                  "baseband",
+                  "bladerf",
+                  "ble",
+                  "bluetooth-low-energy",
+                  "dsp",
+                  "hackrf",
+                  "indoor-positioning",
+                  "packet-sniffer",
+                  "protocol-analyser",
+                  "protocol-parser",
+                  "rf",
+                  "sdr",
+                  "security",
+                  "sniffer",
+                  "software-defined-radio",
+                  "wireless-communication",
+                  "wireless-security",
+                  "wireless-sensor-networks"
+                ]
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -405,12 +609,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "BtleJuice Bluetooth Smart (LE) Man-in-the-Middle framework",
+                "homepage": null,
                 "id": 65025965,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-10-03T06:26:53Z",
+                "open_issues": 41,
                 "owner": "DigitalSecurity",
                 "repo": "btlejuice",
-                "stars": 850
+                "stars": 850,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -421,12 +630,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node.js package for BLE (Bluetooth Low Energy) security assessment using Man-in-the-Middle and other attacks",
+                "homepage": "http://www.gattack.io",
                 "id": 64836808,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-01-31T05:53:09Z",
+                "open_issues": 18,
                 "owner": "securing",
                 "repo": "gattacker",
-                "stars": 845
+                "stars": 845,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -437,12 +651,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Man in the Middle analysis tool for Bluetooth.",
+                "homepage": null,
                 "id": 41071103,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-02-24T12:54:20Z",
+                "open_issues": 9,
                 "owner": "conorpp",
                 "repo": "btproxy",
-                "stars": 542
+                "stars": 542,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             }
@@ -460,12 +679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool to create large numbers of phantom Bluetooth devices.",
+                "homepage": "www.digifail.com/software/bluefog.shtml",
                 "id": 7276477,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2013-04-01T03:46:08Z",
+                "open_issues": 0,
                 "owner": "MS3FGX",
                 "repo": "Bluefog",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             }
@@ -483,12 +707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple wrapper for l2ping which shows rssi",
+                "homepage": null,
                 "id": 134788714,
                 "language": "Shell",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-10-13T14:53:33Z",
+                "open_issues": 0,
                 "owner": "ZeroChaos-",
                 "repo": "blue_sonar",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             }
@@ -506,12 +735,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple script that makes possible BLE deauthentication!",
+                "homepage": null,
                 "id": 258646917,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-14T08:28:13Z",
+                "open_issues": 0,
                 "owner": "its0x08",
                 "repo": "blue-deauth",
-                "stars": 424
+                "stars": 424,
+                "topics": [
+                  "bash",
+                  "bash-script",
+                  "ble",
+                  "ble-connection",
+                  "ble-deauther",
+                  "ble-device",
+                  "blue-deauth",
+                  "bluetooth",
+                  "bluetooth-devices",
+                  "bluetooth-low-energy",
+                  "deauth",
+                  "deauthenticate",
+                  "deauthentication-attack",
+                  "deauther",
+                  "disconnects",
+                  "dos",
+                  "dos-attack"
+                ]
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             }
@@ -529,12 +781,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bluetooth Honeypot",
+                "homepage": null,
                 "id": 16572095,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-04-02T19:04:35Z",
+                "open_issues": 4,
                 "owner": "andrewmichaelsmith",
                 "repo": "bluepot",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             }
@@ -552,12 +809,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wireless USB Rubber Ducky triggered via BLE (make your Ubertooth quack!)",
+                "homepage": null,
                 "id": 160471405,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2018-12-05T17:47:37Z",
+                "open_issues": 2,
                 "owner": "mikeryan",
                 "repo": "uberducky",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "bluetooth",
+                  "bluetooth-le",
+                  "hacking-tool",
+                  "redteam",
+                  "redteam-hardware-tool",
+                  "ubertooth",
+                  "usb-rubber-ducky"
+                ]
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             },
@@ -568,12 +838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BLEBoy is a training tool to teach users about BLE security by providing a single BLE peripheral that can be used to experiment with each BLE pairing method and demonstrates GATT security concepts.",
+                "homepage": null,
                 "id": 124476995,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-10-25T22:14:04Z",
+                "open_issues": 3,
                 "owner": "nccgroup",
                 "repo": "BLEBoy",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
             }
@@ -587,15 +862,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T09:34:34.523Z",
+    "last_updated": "2026-08-29T04:42:55.152Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of Bluetooth BR/EDR/LE security resources",
+      "homepage": null,
       "id": 273961365,
       "language": null,
+      "license": null,
       "last_commit": "2025-10-03T22:06:03Z",
+      "open_issues": 0,
       "owner": "engn33r",
       "repo": "awesome-bluetooth-security",
-      "stars": 611
+      "stars": 611,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ble",
+        "bluetooth",
+        "bluetooth-hacking",
+        "bluetooth-low-energy",
+        "bluetooth-security",
+        "penetration-testing",
+        "pentesting",
+        "security"
+      ]
     },
     "original_repository_sha": "9490d062e0c0f5ce76ada852ff54618ba0e7dc2f",
     "enhanced_repository": "enhansome/enhansome-bluetooth-security",

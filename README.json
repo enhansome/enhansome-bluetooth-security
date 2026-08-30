@@ -69,7 +69,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19872,
+                "stars": 19905,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -111,7 +111,7 @@
                 "open_issues": 52,
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
-                "stars": 1615,
+                "stars": 1616,
                 "topics": [
                   "bluetooth",
                   "hackrf",
@@ -476,10 +476,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-13T17:06:43Z",
-                "open_issues": 344,
+                "open_issues": 345,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2880,
+                "stars": 2881,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:40:33.308Z",
+    "last_updated": "2026-08-30T03:40:38.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

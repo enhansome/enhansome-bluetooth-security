@@ -69,7 +69,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19905,
+                "stars": 19915,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -111,7 +111,7 @@
                 "open_issues": 52,
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
-                "stars": 1616,
+                "stars": 1618,
                 "topics": [
                   "bluetooth",
                   "hackrf",
@@ -311,7 +311,7 @@
                 "open_issues": 6,
                 "owner": "mikeryan",
                 "repo": "crackle",
-                "stars": 970,
+                "stars": 971,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -476,10 +476,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-13T17:06:43Z",
-                "open_issues": 345,
+                "open_issues": 346,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2881,
+                "stars": 2884,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -639,7 +639,7 @@
                 "open_issues": 18,
                 "owner": "securing",
                 "repo": "gattacker",
-                "stars": 845,
+                "stars": 846,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -744,7 +744,7 @@
                 "open_issues": 0,
                 "owner": "its0x08",
                 "repo": "blue-deauth",
-                "stars": 424,
+                "stars": 425,
                 "topics": [
                   "bash",
                   "bash-script",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T03:40:38.518Z",
+    "last_updated": "2026-08-31T03:41:08.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

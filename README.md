@@ -1,6 +1,6 @@
 # Awesome Bluetooth Security (BR, EDR, LE, and Mesh) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,770 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,084 | 🐛 105 | 📅 2026-09-02
 
 This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.
 
@@ -172,8 +172,8 @@ Submit a PR if something is missing!
 
 ### Scanners & Sniffers
 
-* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 19,914 | 🐛 44 | 🌐 Go | 📅 2026-08-13
-* sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,618 | 🐛 52 | 🌐 Python | 📅 2026-07-20
+* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 19,922 | 🐛 44 | 🌐 Go | 📅 2026-08-13
+* sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,620 | 🐛 52 | 🌐 Python | 📅 2026-07-20
 * Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,166 | 🐛 31 | 🌐 Python | 📅 2025-09-25
 * bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah) ⚠️ Archived
 * BTLEmap [Github](https://github.com/seemoo-lab/BTLEmap) ⭐ 216 | 🐛 1 | 🌐 Swift | 📅 2024-06-11
@@ -235,11 +235,11 @@ Submit a PR if something is missing!
 
 ### Denial of Service
 
-* Blue Deauth [Github](https://github.com/its0x08/blue-deauth) ⭐ 425 | 🐛 0 | 🌐 Shell | 📅 2026-04-14
+* Blue Deauth [Github](https://github.com/its0x08/blue-deauth) ⭐ 426 | 🐛 0 | 🌐 Shell | 📅 2026-04-14
 
 ### Honeypot
 
-* bluepot [Github](https://github.com/andrewmichaelsmith/bluepot/) ⭐ 279 | 🐛 4 | 🌐 Java | 📅 2026-04-02
+* bluepot [Github](https://github.com/andrewmichaelsmith/bluepot/) ⭐ 278 | 🐛 4 | 🌐 Java | 📅 2026-04-02
 
 ### Android Apps
 
@@ -283,4 +283,4 @@ NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/pub
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

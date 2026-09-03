@@ -69,7 +69,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19922,
+                "stars": 19925,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T02:54:42.263Z",
+    "last_updated": "2026-09-03T02:58:14.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

@@ -1,6 +1,6 @@
 # Awesome Bluetooth Security (BR, EDR, LE, and Mesh) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,195 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,489 | 🐛 106 | 📅 2026-09-02
 
 This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.
 
@@ -172,14 +172,14 @@ Submit a PR if something is missing!
 
 ### Scanners & Sniffers
 
-* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 19,969 | 🐛 44 | 🌐 Go | 📅 2026-08-13
-* sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,619 | 🐛 52 | 🌐 Python | 📅 2026-07-20
-* Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,171 | 🐛 31 | 🌐 Python | 📅 2025-09-25
+* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 19,971 | 🐛 44 | 🌐 Go | 📅 2026-08-13
+* sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,620 | 🐛 52 | 🌐 Python | 📅 2026-07-20
+* Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,172 | 🐛 31 | 🌐 Python | 📅 2025-09-25
 * bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah) ⚠️ Archived
-* BTLEmap [Github](https://github.com/seemoo-lab/BTLEmap) ⭐ 216 | 🐛 1 | 🌐 Swift | 📅 2024-06-11
+* BTLEmap [Github](https://github.com/seemoo-lab/BTLEmap) ⭐ 217 | 🐛 1 | 🌐 Swift | 📅 2024-06-11
 * btlesniffer [Github](https://github.com/scipag/btle-sniffer) ⭐ 169 | 🐛 3 | 🌐 Python | 📅 2023-07-04
 * bluelog [Github](https://github.com/MS3FGX/Bluelog) ⭐ 136 | 🐛 7 | 🌐 C | 📅 2019-07-16
-* btsniffer [Github](https://github.com/bsnet/btsniffer) ⭐ 56 | 🐛 1 | 🌐 C++ | 📅 2020-04-04
+* btsniffer [Github](https://github.com/bsnet/btsniffer) ⭐ 57 | 🐛 1 | 🌐 C++ | 📅 2020-04-04
 * Blue Hydra [Github](https://github.com/pwnieexpress/blue_hydra)
 * btscanner [Link](https://manpages.org/btscanner)
 * BT Audit [Link](https://trifinite.org/trifinite_stuff_btaudit.html)
@@ -187,8 +187,8 @@ Submit a PR if something is missing!
 
 ### Exploit Tools
 
-* Btlejack [Github](https://github.com/virtualabs/btlejack) ⭐ 2,108 | 🐛 28 | 🌐 Python | 📅 2024-08-04
-* crackle [Github](https://github.com/mikeryan/crackle) ⭐ 972 | 🐛 6 | 🌐 C | 📅 2021-08-26
+* Btlejack [Github](https://github.com/virtualabs/btlejack) ⭐ 2,109 | 🐛 28 | 🌐 Python | 📅 2024-08-04
+* crackle [Github](https://github.com/mikeryan/crackle) ⭐ 973 | 🐛 6 | 🌐 C | 📅 2021-08-26
 * BLE-Replay [Github](https://github.com/nccgroup/BLE-Replay) ⭐ 151 | 🐛 4 | 🌐 Python | 📅 2016-08-25
 * btcrack [Github](https://github.com/mikeryan/btcrack) ⭐ 53 | 🐛 1 | 🌐 C | 📅 2014-05-12
 * BLESuite-CLI [Github](https://github.com/nccgroup/BLESuite-CLI) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2016-08-01
@@ -206,21 +206,21 @@ Submit a PR if something is missing!
 
 ### Fuzzing
 
-* Toothpicker [Github](https://github.com/seemoo-lab/toothpicker) ⭐ 246 | 🐛 1 | 🌐 Python | 📅 2021-09-21
+* Toothpicker [Github](https://github.com/seemoo-lab/toothpicker) ⭐ 247 | 🐛 1 | 🌐 Python | 📅 2021-09-21
 * bss (unsupported) [Github](https://github.com/hllhll/BluetoothStackSmasher) ⭐ 23 | 🐛 0 | 🌐 C | 📅 2015-11-05
 * Defensics (Commercial) [Link](https://www.synopsys.com/software-integrity/security-testing/fuzz-testing.html)
 
 ### Firmware Analysis
 
 * Nexmon [Github](https://github.com/seemoo-lab/nexmon/tree/bluetooth-wip) ⭐ 2,886 | 🐛 347 | 🌐 C | 📅 2026-07-13
-* InternalBlue [Github](https://github.com/seemoo-lab/internalblue) ⭐ 787 | 🐛 21 | 🌐 Python | 📅 2024-08-21
+* InternalBlue [Github](https://github.com/seemoo-lab/internalblue) ⭐ 789 | 🐛 21 | 🌐 Python | 📅 2024-08-21
 * Frankenstein [Github](https://github.com/seemoo-lab/frankenstein) ⭐ 465 | 🐛 8 | 🌐 C | 📅 2024-02-07
 
 ### Man-in-the-middle & Packet Injection
 
 * BTLE (for SDRs) [Github](https://github.com/JiaoXianjun/BTLE) ⭐ 930 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-06-08
 * BtleJuice [Github](https://github.com/DigitalSecurity/btlejuice) ⚠️ Archived
-* Gattacker [Github](https://github.com/securing/gattacker) ⭐ 848 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-31
+* Gattacker [Github](https://github.com/securing/gattacker) ⭐ 849 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-31
 * (Unsupported) Btproxy [Github](https://github.com/conorpp/btproxy) ⭐ 542 | 🐛 9 | 🌐 Python | 📅 2020-02-24
 
 ### Device Spoofing
@@ -283,4 +283,4 @@ NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/pub
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

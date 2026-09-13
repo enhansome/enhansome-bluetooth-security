@@ -69,7 +69,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19969,
+                "stars": 19971,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -111,7 +111,7 @@
                 "open_issues": 52,
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
-                "stars": 1619,
+                "stars": 1620,
                 "topics": [
                   "bluetooth",
                   "hackrf",
@@ -139,7 +139,7 @@
                 "open_issues": 31,
                 "owner": "nccgroup",
                 "repo": "Sniffle",
-                "stars": 1171,
+                "stars": 1172,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -185,7 +185,7 @@
                 "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "BTLEmap",
-                "stars": 216,
+                "stars": 217,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -262,7 +262,7 @@
                 "open_issues": 1,
                 "owner": "bsnet",
                 "repo": "btsniffer",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -290,7 +290,7 @@
                 "open_issues": 28,
                 "owner": "virtualabs",
                 "repo": "btlejack",
-                "stars": 2108,
+                "stars": 2109,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -311,7 +311,7 @@
                 "open_issues": 6,
                 "owner": "mikeryan",
                 "repo": "crackle",
-                "stars": 972,
+                "stars": 973,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -430,7 +430,7 @@
                 "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "toothpicker",
-                "stars": 246,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -508,7 +508,7 @@
                 "open_issues": 21,
                 "owner": "seemoo-lab",
                 "repo": "internalblue",
-                "stars": 787,
+                "stars": 789,
                 "topics": [
                   "android",
                   "ble",
@@ -639,7 +639,7 @@
                 "open_issues": 18,
                 "owner": "securing",
                 "repo": "gattacker",
-                "stars": 848,
+                "stars": 849,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T03:09:43.694Z",
+    "last_updated": "2026-09-13T03:12:04.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

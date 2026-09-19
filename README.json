@@ -69,7 +69,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19992,
+                "stars": 19996,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -111,7 +111,7 @@
                 "open_issues": 52,
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
-                "stars": 1621,
+                "stars": 1622,
                 "topics": [
                   "bluetooth",
                   "hackrf",
@@ -290,7 +290,7 @@
                 "open_issues": 28,
                 "owner": "virtualabs",
                 "repo": "btlejack",
-                "stars": 2110,
+                "stars": 2111,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -332,7 +332,7 @@
                 "open_issues": 4,
                 "owner": "nccgroup",
                 "repo": "BLE-Replay",
-                "stars": 151,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -479,7 +479,7 @@
                 "open_issues": 347,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2888,
+                "stars": 2887,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -577,7 +577,7 @@
                 "open_issues": 17,
                 "owner": "JiaoXianjun",
                 "repo": "BTLE",
-                "stars": 933,
+                "stars": 934,
                 "topics": [
                   "angle-of-arrival",
                   "baseband",
@@ -604,27 +604,6 @@
             },
             {
               "node_type": "item",
-              "title": "BtleJuice Github",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "BtleJuice Bluetooth Smart (LE) Man-in-the-Middle framework",
-                "homepage": null,
-                "id": 65025965,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2018-10-03T06:26:53Z",
-                "open_issues": 41,
-                "owner": "DigitalSecurity",
-                "repo": "btlejuice",
-                "stars": 850,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T09:34:34.523Z"
-            },
-            {
-              "node_type": "item",
               "title": "Gattacker Github",
               "description": null,
               "children": [],
@@ -639,6 +618,27 @@
                 "open_issues": 18,
                 "owner": "securing",
                 "repo": "gattacker",
+                "stars": 851,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T09:34:34.523Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BtleJuice Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "BtleJuice Bluetooth Smart (LE) Man-in-the-Middle framework",
+                "homepage": null,
+                "id": 65025965,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2018-10-03T06:26:53Z",
+                "open_issues": 41,
+                "owner": "DigitalSecurity",
+                "repo": "btlejuice",
                 "stars": 850,
                 "topics": []
               },
@@ -744,7 +744,7 @@
                 "open_issues": 0,
                 "owner": "its0x08",
                 "repo": "blue-deauth",
-                "stars": 451,
+                "stars": 450,
                 "topics": [
                   "bash",
                   "bash-script",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T03:14:00.854Z",
+    "last_updated": "2026-09-19T03:10:24.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

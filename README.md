@@ -1,6 +1,6 @@
 # Awesome Bluetooth Security (BR, EDR, LE, and Mesh) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,904 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,290 | 🐛 106 | 📅 2026-09-02
 
 This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.
 
@@ -172,7 +172,7 @@ Submit a PR if something is missing!
 
 ### Scanners & Sniffers
 
-* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 19,997 | 🐛 44 | 🌐 Go | 📅 2026-08-13
+* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 20,009 | 🐛 44 | 🌐 Go | 📅 2026-08-13
 * sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,622 | 🐛 52 | 🌐 Python | 📅 2026-07-20
 * Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,174 | 🐛 31 | 🌐 Python | 📅 2025-09-25
 * bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah) ⚠️ Archived
@@ -200,7 +200,7 @@ Submit a PR if something is missing!
 
 ### OBEX Attack Tools
 
-* nOBEX [Github](https://github.com/nccgroup/nOBEX) ⭐ 97 | 🐛 7 | 🌐 Python | 📅 2020-10-19
+* nOBEX [Github](https://github.com/nccgroup/nOBEX) ⭐ 98 | 🐛 7 | 🌐 Python | 📅 2020-10-19
 * obexstress [Download](http://bluetooth-pentest.narod.ru/software/obexstress.py)
 * bluesnarfer [Gitlab](https://gitlab.com/kalilinux/packages/bluesnarfer)
 
@@ -212,7 +212,7 @@ Submit a PR if something is missing!
 
 ### Firmware Analysis
 
-* Nexmon [Github](https://github.com/seemoo-lab/nexmon/tree/bluetooth-wip) ⭐ 2,887 | 🐛 347 | 🌐 C | 📅 2026-09-14
+* Nexmon [Github](https://github.com/seemoo-lab/nexmon/tree/bluetooth-wip) ⭐ 2,889 | 🐛 347 | 🌐 C | 📅 2026-09-14
 * InternalBlue [Github](https://github.com/seemoo-lab/internalblue) ⭐ 790 | 🐛 21 | 🌐 Python | 📅 2024-08-21
 * Frankenstein [Github](https://github.com/seemoo-lab/frankenstein) ⭐ 465 | 🐛 8 | 🌐 C | 📅 2024-02-07
 
@@ -283,4 +283,4 @@ NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/pub
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._

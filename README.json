@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "RCayre",
             "repo": "injectable-firmware",
-            "stars": 73,
+            "stars": 74,
             "topics": []
           },
           "first_seen": "2026-08-28T09:34:34.523Z"
@@ -69,7 +69,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20027,
+                "stars": 20028,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -139,7 +139,7 @@
                 "open_issues": 31,
                 "owner": "nccgroup",
                 "repo": "Sniffle",
-                "stars": 1178,
+                "stars": 1179,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -479,7 +479,7 @@
                 "open_issues": 347,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2887,
+                "stars": 2886,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -577,7 +577,7 @@
                 "open_issues": 17,
                 "owner": "JiaoXianjun",
                 "repo": "BTLE",
-                "stars": 936,
+                "stars": 937,
                 "topics": [
                   "angle-of-arrival",
                   "baseband",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T03:34:06.242Z",
+    "last_updated": "2026-09-27T03:42:53.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

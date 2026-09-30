@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "RCayre",
             "repo": "injectable-firmware",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T09:34:34.523Z"
@@ -69,7 +69,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20035,
+                "stars": 20040,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -111,7 +111,7 @@
                 "open_issues": 52,
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
-                "stars": 1628,
+                "stars": 1629,
                 "topics": [
                   "bluetooth",
                   "hackrf",
@@ -139,7 +139,7 @@
                 "open_issues": 31,
                 "owner": "nccgroup",
                 "repo": "Sniffle",
-                "stars": 1179,
+                "stars": 1180,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -290,7 +290,7 @@
                 "open_issues": 28,
                 "owner": "virtualabs",
                 "repo": "btlejack",
-                "stars": 2112,
+                "stars": 2113,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -311,7 +311,7 @@
                 "open_issues": 6,
                 "owner": "mikeryan",
                 "repo": "crackle",
-                "stars": 973,
+                "stars": 974,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -479,7 +479,7 @@
                 "open_issues": 347,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2885,
+                "stars": 2886,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -577,7 +577,7 @@
                 "open_issues": 17,
                 "owner": "JiaoXianjun",
                 "repo": "BTLE",
-                "stars": 938,
+                "stars": 941,
                 "topics": [
                   "angle-of-arrival",
                   "baseband",
@@ -604,6 +604,27 @@
             },
             {
               "node_type": "item",
+              "title": "BtleJuice Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "BtleJuice Bluetooth Smart (LE) Man-in-the-Middle framework",
+                "homepage": null,
+                "id": 65025965,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2018-10-03T06:26:53Z",
+                "open_issues": 41,
+                "owner": "DigitalSecurity",
+                "repo": "btlejuice",
+                "stars": 851,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T09:34:34.523Z"
+            },
+            {
+              "node_type": "item",
               "title": "Gattacker Github",
               "description": null,
               "children": [],
@@ -625,27 +646,6 @@
             },
             {
               "node_type": "item",
-              "title": "BtleJuice Github",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "BtleJuice Bluetooth Smart (LE) Man-in-the-Middle framework",
-                "homepage": null,
-                "id": 65025965,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2018-10-03T06:26:53Z",
-                "open_issues": 41,
-                "owner": "DigitalSecurity",
-                "repo": "btlejuice",
-                "stars": 850,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T09:34:34.523Z"
-            },
-            {
-              "node_type": "item",
               "title": "(Unsupported) Btproxy Github",
               "description": null,
               "children": [],
@@ -660,7 +660,7 @@
                 "open_issues": 9,
                 "owner": "conorpp",
                 "repo": "btproxy",
-                "stars": 542,
+                "stars": 543,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -744,7 +744,7 @@
                 "open_issues": 0,
                 "owner": "its0x08",
                 "repo": "blue-deauth",
-                "stars": 452,
+                "stars": 451,
                 "topics": [
                   "bash",
                   "bash-script",
@@ -818,7 +818,7 @@
                 "open_issues": 2,
                 "owner": "mikeryan",
                 "repo": "uberducky",
-                "stars": 119,
+                "stars": 120,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T04:16:55.318Z",
+    "last_updated": "2026-09-30T04:01:02.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",
@@ -874,7 +874,7 @@
       "open_issues": 0,
       "owner": "engn33r",
       "repo": "awesome-bluetooth-security",
-      "stars": 615,
+      "stars": 616,
       "topics": [
         "awesome",
         "awesome-list",

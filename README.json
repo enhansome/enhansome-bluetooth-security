@@ -69,7 +69,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20040,
+                "stars": 20043,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -111,7 +111,7 @@
                 "open_issues": 52,
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
-                "stars": 1629,
+                "stars": 1630,
                 "topics": [
                   "bluetooth",
                   "hackrf",
@@ -604,27 +604,6 @@
             },
             {
               "node_type": "item",
-              "title": "BtleJuice Github",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "BtleJuice Bluetooth Smart (LE) Man-in-the-Middle framework",
-                "homepage": null,
-                "id": 65025965,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2018-10-03T06:26:53Z",
-                "open_issues": 41,
-                "owner": "DigitalSecurity",
-                "repo": "btlejuice",
-                "stars": 851,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T09:34:34.523Z"
-            },
-            {
-              "node_type": "item",
               "title": "Gattacker Github",
               "description": null,
               "children": [],
@@ -639,6 +618,27 @@
                 "open_issues": 18,
                 "owner": "securing",
                 "repo": "gattacker",
+                "stars": 852,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T09:34:34.523Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BtleJuice Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "BtleJuice Bluetooth Smart (LE) Man-in-the-Middle framework",
+                "homepage": null,
+                "id": 65025965,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2018-10-03T06:26:53Z",
+                "open_issues": 41,
+                "owner": "DigitalSecurity",
+                "repo": "btlejuice",
                 "stars": 851,
                 "topics": []
               },
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T04:01:02.978Z",
+    "last_updated": "2026-10-01T04:12:19.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

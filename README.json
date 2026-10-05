@@ -69,7 +69,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20072,
+                "stars": 20098,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -290,7 +290,7 @@
                 "open_issues": 28,
                 "owner": "virtualabs",
                 "repo": "btlejack",
-                "stars": 2113,
+                "stars": 2114,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -479,7 +479,7 @@
                 "open_issues": 347,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2890,
+                "stars": 2891,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -505,7 +505,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-08-21T15:45:36Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "seemoo-lab",
                 "repo": "internalblue",
                 "stars": 791,
@@ -577,7 +577,7 @@
                 "open_issues": 17,
                 "owner": "JiaoXianjun",
                 "repo": "BTLE",
-                "stars": 942,
+                "stars": 943,
                 "topics": [
                   "angle-of-arrival",
                   "baseband",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T04:21:01.243Z",
+    "last_updated": "2026-10-05T04:05:42.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

@@ -69,7 +69,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20140,
+                "stars": 20145,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -139,7 +139,7 @@
                 "open_issues": 31,
                 "owner": "nccgroup",
                 "repo": "Sniffle",
-                "stars": 1189,
+                "stars": 1190,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -164,7 +164,7 @@
                 "open_issues": 9,
                 "owner": "evilsocket",
                 "repo": "bleah",
-                "stars": 1093,
+                "stars": 1094,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -241,7 +241,7 @@
                 "open_issues": 7,
                 "owner": "MS3FGX",
                 "repo": "Bluelog",
-                "stars": 136,
+                "stars": 137,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -290,7 +290,7 @@
                 "open_issues": 28,
                 "owner": "virtualabs",
                 "repo": "btlejack",
-                "stars": 2118,
+                "stars": 2119,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -479,7 +479,7 @@
                 "open_issues": 348,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2897,
+                "stars": 2900,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -541,7 +541,7 @@
                 "open_issues": 8,
                 "owner": "seemoo-lab",
                 "repo": "frankenstein",
-                "stars": 470,
+                "stars": 471,
                 "topics": [
                   "arm",
                   "bluetooth",
@@ -744,7 +744,7 @@
                 "open_issues": 0,
                 "owner": "its0x08",
                 "repo": "blue-deauth",
-                "stars": 451,
+                "stars": 453,
                 "topics": [
                   "bash",
                   "bash-script",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T05:30:58.489Z",
+    "last_updated": "2026-10-14T03:34:20.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

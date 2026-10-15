@@ -69,7 +69,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20145,
+                "stars": 20147,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -111,7 +111,7 @@
                 "open_issues": 53,
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
-                "stars": 1634,
+                "stars": 1635,
                 "topics": [
                   "bluetooth",
                   "hackrf",
@@ -139,7 +139,7 @@
                 "open_issues": 31,
                 "owner": "nccgroup",
                 "repo": "Sniffle",
-                "stars": 1190,
+                "stars": 1191,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -241,7 +241,7 @@
                 "open_issues": 7,
                 "owner": "MS3FGX",
                 "repo": "Bluelog",
-                "stars": 137,
+                "stars": 138,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -311,7 +311,7 @@
                 "open_issues": 6,
                 "owner": "mikeryan",
                 "repo": "crackle",
-                "stars": 973,
+                "stars": 972,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -541,7 +541,7 @@
                 "open_issues": 8,
                 "owner": "seemoo-lab",
                 "repo": "frankenstein",
-                "stars": 471,
+                "stars": 473,
                 "topics": [
                   "arm",
                   "bluetooth",
@@ -618,7 +618,7 @@
                 "open_issues": 18,
                 "owner": "securing",
                 "repo": "gattacker",
-                "stars": 853,
+                "stars": 854,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T03:34:20.063Z",
+    "last_updated": "2026-10-15T03:14:23.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

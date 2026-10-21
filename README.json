@@ -66,10 +66,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-13T13:47:49Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20166,
+                "stars": 20173,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -108,7 +108,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-28T16:11:47Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
                 "stars": 1637,
@@ -290,7 +290,7 @@
                 "open_issues": 28,
                 "owner": "virtualabs",
                 "repo": "btlejack",
-                "stars": 2119,
+                "stars": 2120,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -311,7 +311,7 @@
                 "open_issues": 6,
                 "owner": "mikeryan",
                 "repo": "crackle",
-                "stars": 974,
+                "stars": 975,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -402,7 +402,7 @@
                 "open_issues": 7,
                 "owner": "nccgroup",
                 "repo": "nOBEX",
-                "stars": 99,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -479,7 +479,7 @@
                 "open_issues": 348,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2904,
+                "stars": 2905,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -618,7 +618,7 @@
                 "open_issues": 18,
                 "owner": "securing",
                 "repo": "gattacker",
-                "stars": 855,
+                "stars": 856,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T03:26:11.917Z",
+    "last_updated": "2026-10-21T03:20:59.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",
@@ -874,7 +874,7 @@
       "open_issues": 1,
       "owner": "engn33r",
       "repo": "awesome-bluetooth-security",
-      "stars": 619,
+      "stars": 620,
       "topics": [
         "awesome",
         "awesome-list",

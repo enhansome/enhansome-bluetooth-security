@@ -107,7 +107,7 @@
                 "id": 105939130,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T16:11:47Z",
+                "last_commit": "2026-10-21T18:45:20Z",
                 "open_issues": 54,
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
@@ -139,7 +139,7 @@
                 "open_issues": 31,
                 "owner": "nccgroup",
                 "repo": "Sniffle",
-                "stars": 1193,
+                "stars": 1194,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -479,7 +479,7 @@
                 "open_issues": 348,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2905,
+                "stars": 2906,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T03:20:59.648Z",
+    "last_updated": "2026-10-22T03:19:28.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

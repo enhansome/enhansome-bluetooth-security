@@ -1,6 +1,6 @@
 # Awesome Bluetooth Security (BR, EDR, LE, and Mesh) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 525,823 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,403 | 🐛 105 | 📅 2026-09-02
 
 This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.
 
@@ -41,7 +41,7 @@ Submit a PR if something is missing!
 | BLESA                                 | WOOT 2020                   | [Site](https://www.usenix.org/conference/woot20/presentation/wu)                                                                  | [Paper](https://www.usenix.org/system/files/woot20-paper-wu-updated.pdf)                                 | [Video](https://www.youtube.com/watch?v=wIWZaSZsRc8) | No Notice                                                                                                                                                        | LE                  | CVE-2020-9770                                                                                                                                                                                                                                                                                                                  |
 | BleedingTooth                         | 2020                        | [Site](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00435.html)                                      | [Writeup](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup)                   | [Video](https://www.youtube.com/watch?v=qPYrLRausSw) | No Notice                                                                                                                                                        | Linux               | CVE-2020-12351, CVE-2020-12352, CVE-2020-24490                                                                                                                                                                                                                                                                                 |
 | BlueMirror                            | WOOT 2021                   | [Site](https://kb.cert.org/vuls/id/799380)                                                                                        | [Paper](https://ieeexplore.ieee.org/abstract/document/9474325)                                           | [Video](https://www.youtube.com/watch?v=Ai5-IrCI3kg) | [Multiple SIG Notices](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/reporting-security/)                                    | BR/EDR/LE/Mesh      | CVE-2020-26555, CVE-2020-26556, CVE-2020-26557, CVE-2020-26558, CVE-2020-26559, CVE-2020-26560                                                                                                                                                                                                                                 |
-| InjectaBLE                            | IEEE DSN 2021               | [Site](https://github.com/RCayre/injectable-firmware) ⭐ 75 \| 🐛 5 \| 🌐 C \| 📅 2022-06-23                                       | [Paper](https://archivesic.ccsd.cnrs.fr/LAAS-TSF/hal-03193297v2)                                         | No Video                                             | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/injectable/)                                                      | LE                  | CVE-2021-31615                                                                                                                                                                                                                                                                                                                 |
+| InjectaBLE                            | IEEE DSN 2021               | [Site](https://github.com/RCayre/injectable-firmware) ⭐ 76 \| 🐛 5 \| 🌐 C \| 📅 2022-06-23                                       | [Paper](https://archivesic.ccsd.cnrs.fr/LAAS-TSF/hal-03193297v2)                                         | No Video                                             | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/injectable/)                                                      | LE                  | CVE-2021-31615                                                                                                                                                                                                                                                                                                                 |
 | BrakTooth                             | 2021                        | [Site](https://asset-group.github.io/disclosures/braktooth/)                                                                      | [Paper](https://asset-group.github.io/disclosures/braktooth/braktooth.pdf)                               | [Video](https://www.youtube.com/watch?v=F7VjuOiUsNk) | No Notice                                                                                                                                                        | BR/EDR              | CVE-2021-28135, CVE-2021-28136, CVE-2021-28139, CVE-2021-28155, CVE-2021-31717, CVE-2021-31609, CVE-2021-31611, CVE-2021-31612, CVE-2021-31613, CVE-2021-31785, CVE-2021-31786, CVE-2021-31610, CVE-2021-34143, CVE-2021-34144, CVE-2021-34145, CVE-2021-34146, CVE-2021-34147, CVE-2021-34148, CVE-2021-34149, CVE-2021-34150 |
 | Pairing Mode Confusion                | 2022                        | No Site                                                                                                                           | No Paper                                                                                                 | No Video                                             | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/confusion-in-ble-passkey/)                                        | LE                  | CVE-2022-25836                                                                                                                                                                                                                                                                                                                 |
 | Pairing Mode Confusion                | 2022                        | No Site                                                                                                                           | No Paper                                                                                                 | No Video                                             | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/confusion-in-br-edr/)                                             | BR/EDR              | CVE-2022-25837                                                                                                                                                                                                                                                                                                                 |
@@ -172,9 +172,9 @@ Submit a PR if something is missing!
 
 ### Scanners & Sniffers
 
-* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 20,204 | 🐛 50 | 🌐 Go | 📅 2026-10-26
+* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 20,212 | 🐛 50 | 🌐 Go | 📅 2026-10-26
 * sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,638 | 🐛 56 | 🌐 Python | 📅 2026-10-21
-* Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,198 | 🐛 31 | 🌐 Python | 📅 2025-09-25
+* Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,197 | 🐛 31 | 🌐 Python | 📅 2025-09-25
 * bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah) ⚠️ Archived
 * BTLEmap [Github](https://github.com/seemoo-lab/BTLEmap) ⭐ 218 | 🐛 1 | 🌐 Swift | 📅 2024-06-11
 * btlesniffer [Github](https://github.com/scipag/btle-sniffer) ⭐ 170 | 🐛 3 | 🌐 Python | 📅 2023-07-04
@@ -188,7 +188,7 @@ Submit a PR if something is missing!
 ### Exploit Tools
 
 * Btlejack [Github](https://github.com/virtualabs/btlejack) ⭐ 2,121 | 🐛 28 | 🌐 Python | 📅 2024-08-04
-* crackle [Github](https://github.com/mikeryan/crackle) ⭐ 977 | 🐛 6 | 🌐 C | 📅 2021-08-26
+* crackle [Github](https://github.com/mikeryan/crackle) ⭐ 978 | 🐛 6 | 🌐 C | 📅 2021-08-26
 * BLE-Replay [Github](https://github.com/nccgroup/BLE-Replay) ⭐ 152 | 🐛 4 | 🌐 Python | 📅 2016-08-25
 * btcrack [Github](https://github.com/mikeryan/btcrack) ⭐ 53 | 🐛 1 | 🌐 C | 📅 2014-05-12
 * BLESuite-CLI [Github](https://github.com/nccgroup/BLESuite-CLI) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2016-08-01
@@ -212,14 +212,14 @@ Submit a PR if something is missing!
 
 ### Firmware Analysis
 
-* Nexmon [Github](https://github.com/seemoo-lab/nexmon/tree/bluetooth-wip) ⭐ 2,908 | 🐛 348 | 🌐 C | 📅 2026-09-24
+* Nexmon [Github](https://github.com/seemoo-lab/nexmon/tree/bluetooth-wip) ⭐ 2,909 | 🐛 348 | 🌐 C | 📅 2026-09-24
 * InternalBlue [Github](https://github.com/seemoo-lab/internalblue) ⭐ 792 | 🐛 20 | 🌐 Python | 📅 2024-08-21
 * Frankenstein [Github](https://github.com/seemoo-lab/frankenstein) ⭐ 475 | 🐛 8 | 🌐 C | 📅 2024-02-07
 
 ### Man-in-the-middle & Packet Injection
 
-* BTLE (for SDRs) [Github](https://github.com/JiaoXianjun/BTLE) ⭐ 948 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-06-08
-* Gattacker [Github](https://github.com/securing/gattacker) ⭐ 856 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-31
+* BTLE (for SDRs) [Github](https://github.com/JiaoXianjun/BTLE) ⭐ 947 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-06-08
+* Gattacker [Github](https://github.com/securing/gattacker) ⭐ 855 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-31
 * BtleJuice [Github](https://github.com/DigitalSecurity/btlejuice) ⚠️ Archived
 * (Unsupported) Btproxy [Github](https://github.com/conorpp/btproxy) ⭐ 543 | 🐛 9 | 🌐 Python | 📅 2020-02-24
 
@@ -283,4 +283,4 @@ NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/pub
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

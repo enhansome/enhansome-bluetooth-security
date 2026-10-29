@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "RCayre",
             "repo": "injectable-firmware",
-            "stars": 75,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T09:34:34.523Z"
@@ -69,7 +69,7 @@
                 "open_issues": 50,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20204,
+                "stars": 20212,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -139,7 +139,7 @@
                 "open_issues": 31,
                 "owner": "nccgroup",
                 "repo": "Sniffle",
-                "stars": 1198,
+                "stars": 1197,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -311,7 +311,7 @@
                 "open_issues": 6,
                 "owner": "mikeryan",
                 "repo": "crackle",
-                "stars": 977,
+                "stars": 978,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -479,7 +479,7 @@
                 "open_issues": 348,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2908,
+                "stars": 2909,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -577,7 +577,7 @@
                 "open_issues": 17,
                 "owner": "JiaoXianjun",
                 "repo": "BTLE",
-                "stars": 948,
+                "stars": 947,
                 "topics": [
                   "angle-of-arrival",
                   "baseband",
@@ -618,7 +618,7 @@
                 "open_issues": 18,
                 "owner": "securing",
                 "repo": "gattacker",
-                "stars": 856,
+                "stars": 855,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T04:01:38.943Z",
+    "last_updated": "2026-10-29T04:24:51.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

@@ -1,6 +1,6 @@
 # Awesome Bluetooth Security (BR, EDR, LE, and Mesh) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,441 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,136 | 🐛 103 | 📅 2026-09-02
 
 This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.
 
@@ -173,7 +173,7 @@ Submit a PR if something is missing!
 ### Scanners & Sniffers
 
 * Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 20,238 | 🐛 42 | 🌐 Go | 📅 2026-11-03
-* sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,643 | 🐛 56 | 🌐 Python | 📅 2026-10-21
+* sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,644 | 🐛 56 | 🌐 Python | 📅 2026-10-21
 * Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,200 | 🐛 31 | 🌐 Python | 📅 2025-09-25
 * bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah) ⚠️ Archived
 * BTLEmap [Github](https://github.com/seemoo-lab/BTLEmap) ⭐ 218 | 🐛 1 | 🌐 Swift | 📅 2024-06-11
@@ -188,7 +188,7 @@ Submit a PR if something is missing!
 ### Exploit Tools
 
 * Btlejack [Github](https://github.com/virtualabs/btlejack) ⭐ 2,122 | 🐛 28 | 🌐 Python | 📅 2024-08-04
-* crackle [Github](https://github.com/mikeryan/crackle) ⭐ 978 | 🐛 6 | 🌐 C | 📅 2021-08-26
+* crackle [Github](https://github.com/mikeryan/crackle) ⭐ 979 | 🐛 6 | 🌐 C | 📅 2021-08-26
 * BLE-Replay [Github](https://github.com/nccgroup/BLE-Replay) ⭐ 152 | 🐛 4 | 🌐 Python | 📅 2016-08-25
 * btcrack [Github](https://github.com/mikeryan/btcrack) ⭐ 53 | 🐛 1 | 🌐 C | 📅 2014-05-12
 * BLESuite-CLI [Github](https://github.com/nccgroup/BLESuite-CLI) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2016-08-01
@@ -218,7 +218,7 @@ Submit a PR if something is missing!
 
 ### Man-in-the-middle & Packet Injection
 
-* BTLE (for SDRs) [Github](https://github.com/JiaoXianjun/BTLE) ⭐ 948 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-06-08
+* BTLE (for SDRs) [Github](https://github.com/JiaoXianjun/BTLE) ⭐ 949 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-06-08
 * Gattacker [Github](https://github.com/securing/gattacker) ⭐ 855 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-31
 * BtleJuice [Github](https://github.com/DigitalSecurity/btlejuice) ⚠️ Archived
 * (Unsupported) Btproxy [Github](https://github.com/conorpp/btproxy) ⭐ 544 | 🐛 9 | 🌐 Python | 📅 2020-02-24
@@ -283,4 +283,4 @@ NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/pub
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

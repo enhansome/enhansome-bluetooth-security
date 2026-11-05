@@ -111,7 +111,7 @@
                 "open_issues": 56,
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
-                "stars": 1643,
+                "stars": 1644,
                 "topics": [
                   "bluetooth",
                   "hackrf",
@@ -311,7 +311,7 @@
                 "open_issues": 6,
                 "owner": "mikeryan",
                 "repo": "crackle",
-                "stars": 978,
+                "stars": 979,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -577,7 +577,7 @@
                 "open_issues": 17,
                 "owner": "JiaoXianjun",
                 "repo": "BTLE",
-                "stars": 948,
+                "stars": 949,
                 "topics": [
                   "angle-of-arrival",
                   "baseband",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T04:52:35.518Z",
+    "last_updated": "2026-11-05T05:09:04.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",
@@ -874,7 +874,7 @@
       "open_issues": 1,
       "owner": "engn33r",
       "repo": "awesome-bluetooth-security",
-      "stars": 623,
+      "stars": 624,
       "topics": [
         "awesome",
         "awesome-list",

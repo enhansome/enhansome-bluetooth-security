@@ -69,7 +69,7 @@
                 "open_issues": 42,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20239,
+                "stars": 20241,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -290,7 +290,7 @@
                 "open_issues": 28,
                 "owner": "virtualabs",
                 "repo": "btlejack",
-                "stars": 2123,
+                "stars": 2122,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -374,7 +374,7 @@
                 "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BLESuite-CLI",
-                "stars": 34,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -476,10 +476,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-24T14:00:19Z",
-                "open_issues": 348,
+                "open_issues": 347,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2914,
+                "stars": 2913,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -818,7 +818,7 @@
                 "open_issues": 2,
                 "owner": "mikeryan",
                 "repo": "uberducky",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T05:08:55.403Z",
+    "last_updated": "2026-11-07T04:41:32.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

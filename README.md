@@ -1,6 +1,6 @@
 # Awesome Bluetooth Security (BR, EDR, LE, and Mesh) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,897 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,613 | 🐛 103 | 📅 2026-09-02
 
 This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.
 
@@ -172,7 +172,7 @@ Submit a PR if something is missing!
 
 ### Scanners & Sniffers
 
-* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 20,239 | 🐛 42 | 🌐 Go | 📅 2026-11-03
+* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 20,241 | 🐛 42 | 🌐 Go | 📅 2026-11-03
 * sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,644 | 🐛 56 | 🌐 Python | 📅 2026-10-21
 * Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,200 | 🐛 31 | 🌐 Python | 📅 2025-09-25
 * bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah) ⚠️ Archived
@@ -187,11 +187,11 @@ Submit a PR if something is missing!
 
 ### Exploit Tools
 
-* Btlejack [Github](https://github.com/virtualabs/btlejack) ⭐ 2,123 | 🐛 28 | 🌐 Python | 📅 2024-08-04
+* Btlejack [Github](https://github.com/virtualabs/btlejack) ⭐ 2,122 | 🐛 28 | 🌐 Python | 📅 2024-08-04
 * crackle [Github](https://github.com/mikeryan/crackle) ⭐ 979 | 🐛 6 | 🌐 C | 📅 2021-08-26
 * BLE-Replay [Github](https://github.com/nccgroup/BLE-Replay) ⭐ 152 | 🐛 4 | 🌐 Python | 📅 2016-08-25
 * btcrack [Github](https://github.com/mikeryan/btcrack) ⭐ 53 | 🐛 1 | 🌐 C | 📅 2014-05-12
-* BLESuite-CLI [Github](https://github.com/nccgroup/BLESuite-CLI) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2016-08-01
+* BLESuite-CLI [Github](https://github.com/nccgroup/BLESuite-CLI) ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2016-08-01
 * BlueMaho [Gitlab](https://gitlab.com/kalilinux/packages/bluemaho)
 * BlueDiving [Sourceforge](http://bluediving.sourceforge.net/)
 * Blooover [Link](https://trifinite.org/trifinite_stuff_blooover.html)
@@ -212,7 +212,7 @@ Submit a PR if something is missing!
 
 ### Firmware Analysis
 
-* Nexmon [Github](https://github.com/seemoo-lab/nexmon/tree/bluetooth-wip) ⭐ 2,914 | 🐛 348 | 🌐 C | 📅 2026-09-24
+* Nexmon [Github](https://github.com/seemoo-lab/nexmon/tree/bluetooth-wip) ⭐ 2,913 | 🐛 347 | 🌐 C | 📅 2026-09-24
 * InternalBlue [Github](https://github.com/seemoo-lab/internalblue) ⭐ 793 | 🐛 20 | 🌐 Python | 📅 2024-08-21
 * Frankenstein [Github](https://github.com/seemoo-lab/frankenstein) ⭐ 476 | 🐛 8 | 🌐 C | 📅 2024-02-07
 
@@ -255,7 +255,7 @@ Submit a PR if something is missing!
 
 ### Other
 
-* Uberducky (BLE-triggered rubber ducky) [Github](https://github.com/mikeryan/uberducky) ⭐ 120 | 🐛 2 | 🌐 C | 📅 2018-12-05
+* Uberducky (BLE-triggered rubber ducky) [Github](https://github.com/mikeryan/uberducky) ⭐ 121 | 🐛 2 | 🌐 C | 📅 2018-12-05
 * BLEBoy: BLE testing platform [Github](https://github.com/nccgroup/BLEBoy) ⭐ 49 | 🐛 3 | 🌐 C++ | 📅 2019-10-25
 * Wireshark: Protocol analyzer and packet capture [Link](https://www.wireshark.org/)
 * Frontline Wireless Protocol Suite (Windows only) [Link](http://www.fte.com/support/wps-download.aspx?demo=802.11\&iid=1y)
@@ -274,7 +274,7 @@ NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/pub
 ## <a name="useful_sites"></a>Useful Sites
 
 * List of Bluetooth bugs [Link](http://bluetooth.lol/)
-* Bluetooth arsenal tool list [Github](https://github.com/0x90/bluetooth-arsenal) ⭐ 497 | 🐛 3 | 🌐 OpenEdge ABL | 📅 2023-04-20
+* Bluetooth arsenal tool list [Github](https://github.com/0x90/bluetooth-arsenal) ⭐ 496 | 🐛 3 | 🌐 OpenEdge ABL | 📅 2023-04-20
 * trifinite Bluetooth info [Link](https://trifinite.org/trifinite_stuff.html)
 * Mike Ryan's Bluetooth info [Link](https://lacklustre.net/bluetooth/)
 * Colin Mulliner's Bluetooth info [Link](https://mulliner.org/bluetooth/)
@@ -283,4 +283,4 @@ NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/pub
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

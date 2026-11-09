@@ -65,11 +65,11 @@
                 "id": 116576783,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T15:11:01Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-09T04:33:02Z",
+                "open_issues": 43,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20244,
+                "stars": 20250,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -139,7 +139,7 @@
                 "open_issues": 31,
                 "owner": "nccgroup",
                 "repo": "Sniffle",
-                "stars": 1200,
+                "stars": 1199,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T04:29:23.231Z",
+    "last_updated": "2026-11-09T04:41:49.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

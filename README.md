@@ -1,6 +1,6 @@
 # Awesome Bluetooth Security (BR, EDR, LE, and Mesh) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,396 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,963 | 🐛 103 | 📅 2026-09-02
 
 This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.
 
@@ -172,7 +172,7 @@ Submit a PR if something is missing!
 
 ### Scanners & Sniffers
 
-* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 20,254 | 🐛 43 | 🌐 Go | 📅 2026-11-09
+* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 20,261 | 🐛 45 | 🌐 Go | 📅 2026-11-10
 * sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,645 | 🐛 56 | 🌐 Python | 📅 2026-10-21
 * Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,199 | 🐛 31 | 🌐 Python | 📅 2025-09-25
 * bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah) ⚠️ Archived
@@ -235,7 +235,7 @@ Submit a PR if something is missing!
 
 ### Denial of Service
 
-* Blue Deauth [Github](https://github.com/its0x08/blue-deauth) ⭐ 459 | 🐛 0 | 🌐 Shell | 📅 2026-04-14
+* Blue Deauth [Github](https://github.com/its0x08/blue-deauth) ⭐ 460 | 🐛 0 | 🌐 Shell | 📅 2026-04-14
 
 ### Honeypot
 
@@ -274,7 +274,7 @@ NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/pub
 ## <a name="useful_sites"></a>Useful Sites
 
 * List of Bluetooth bugs [Link](http://bluetooth.lol/)
-* Bluetooth arsenal tool list [Github](https://github.com/0x90/bluetooth-arsenal) ⭐ 497 | 🐛 3 | 🌐 OpenEdge ABL | 📅 2023-04-20
+* Bluetooth arsenal tool list [Github](https://github.com/0x90/bluetooth-arsenal) ⭐ 498 | 🐛 3 | 🌐 OpenEdge ABL | 📅 2023-04-20
 * trifinite Bluetooth info [Link](https://trifinite.org/trifinite_stuff.html)
 * Mike Ryan's Bluetooth info [Link](https://lacklustre.net/bluetooth/)
 * Colin Mulliner's Bluetooth info [Link](https://mulliner.org/bluetooth/)
@@ -283,4 +283,4 @@ NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/pub
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

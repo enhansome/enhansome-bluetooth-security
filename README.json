@@ -69,7 +69,7 @@
                 "open_issues": 47,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20284,
+                "stars": 20293,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -508,7 +508,7 @@
                 "open_issues": 20,
                 "owner": "seemoo-lab",
                 "repo": "internalblue",
-                "stars": 793,
+                "stars": 794,
                 "topics": [
                   "android",
                   "ble",
@@ -618,7 +618,7 @@
                 "open_issues": 18,
                 "owner": "securing",
                 "repo": "gattacker",
-                "stars": 855,
+                "stars": 856,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:34:34.523Z"
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T04:57:14.056Z",
+    "last_updated": "2026-11-15T04:51:12.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",
@@ -874,7 +874,7 @@
       "open_issues": 1,
       "owner": "engn33r",
       "repo": "awesome-bluetooth-security",
-      "stars": 626,
+      "stars": 627,
       "topics": [
         "awesome",
         "awesome-list",

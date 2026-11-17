@@ -66,10 +66,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-10T16:00:13Z",
-                "open_issues": 47,
+                "open_issues": 46,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20297,
+                "stars": 20304,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -111,7 +111,7 @@
                 "open_issues": 51,
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
-                "stars": 1647,
+                "stars": 1648,
                 "topics": [
                   "bluetooth",
                   "hackrf",
@@ -139,7 +139,7 @@
                 "open_issues": 32,
                 "owner": "nccgroup",
                 "repo": "Sniffle",
-                "stars": 1204,
+                "stars": 1205,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -476,10 +476,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-24T14:00:19Z",
-                "open_issues": 347,
+                "open_issues": 348,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2919,
+                "stars": 2921,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -744,7 +744,7 @@
                 "open_issues": 0,
                 "owner": "its0x08",
                 "repo": "blue-deauth",
-                "stars": 460,
+                "stars": 459,
                 "topics": [
                   "bash",
                   "bash-script",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T04:47:10.416Z",
+    "last_updated": "2026-11-17T06:34:41.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

@@ -65,8 +65,8 @@
                 "id": 116576783,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T04:33:15Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-20T11:12:54Z",
+                "open_issues": 42,
                 "owner": "bettercap",
                 "repo": "bettercap",
                 "stars": 20322,
@@ -107,7 +107,7 @@
                 "id": 105939130,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-12T01:48:13Z",
+                "last_commit": "2026-11-20T21:44:54Z",
                 "open_issues": 51,
                 "owner": "ghostop14",
                 "repo": "sparrow-wifi",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T05:44:32.228Z",
+    "last_updated": "2026-11-21T05:39:50.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Bluetooth BR/EDR/LE security resources",

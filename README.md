@@ -1,6 +1,6 @@
 # Awesome Bluetooth Security (BR, EDR, LE, and Mesh) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,471 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,983 | 🐛 103 | 📅 2026-09-02
 
 This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.
 
@@ -172,9 +172,9 @@ Submit a PR if something is missing!
 
 ### Scanners & Sniffers
 
-* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 20,355 | 🐛 37 | 🌐 Go | 📅 2026-11-25
-* sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,650 | 🐛 52 | 🌐 Python | 📅 2026-11-20
-* Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,209 | 🐛 32 | 🌐 Python | 📅 2025-09-25
+* Bettercap [Github](https://github.com/bettercap/bettercap) ⭐ 20,363 | 🐛 37 | 🌐 Go | 📅 2026-11-25
+* sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,651 | 🐛 52 | 🌐 Python | 📅 2026-11-20
+* Sniffle [Github](https://github.com/nccgroup/sniffle) ⭐ 1,210 | 🐛 32 | 🌐 Python | 📅 2025-09-25
 * bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah) ⚠️ Archived
 * BTLEmap [Github](https://github.com/seemoo-lab/BTLEmap) ⭐ 218 | 🐛 1 | 🌐 Swift | 📅 2024-06-11
 * btlesniffer [Github](https://github.com/scipag/btle-sniffer) ⭐ 170 | 🐛 3 | 🌐 Python | 📅 2023-07-04
@@ -212,14 +212,14 @@ Submit a PR if something is missing!
 
 ### Firmware Analysis
 
-* Nexmon [Github](https://github.com/seemoo-lab/nexmon/tree/bluetooth-wip) ⭐ 2,926 | 🐛 348 | 🌐 C | 📅 2026-09-24
-* InternalBlue [Github](https://github.com/seemoo-lab/internalblue) ⭐ 793 | 🐛 21 | 🌐 Python | 📅 2024-08-21
+* Nexmon [Github](https://github.com/seemoo-lab/nexmon/tree/bluetooth-wip) ⭐ 2,927 | 🐛 348 | 🌐 C | 📅 2026-09-24
+* InternalBlue [Github](https://github.com/seemoo-lab/internalblue) ⭐ 794 | 🐛 21 | 🌐 Python | 📅 2024-08-21
 * Frankenstein [Github](https://github.com/seemoo-lab/frankenstein) ⭐ 476 | 🐛 8 | 🌐 C | 📅 2024-02-07
 
 ### Man-in-the-middle & Packet Injection
 
-* BTLE (for SDRs) [Github](https://github.com/JiaoXianjun/BTLE) ⭐ 956 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-06-08
-* Gattacker [Github](https://github.com/securing/gattacker) ⭐ 855 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-31
+* BTLE (for SDRs) [Github](https://github.com/JiaoXianjun/BTLE) ⭐ 958 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-06-08
+* Gattacker [Github](https://github.com/securing/gattacker) ⭐ 856 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-31
 * BtleJuice [Github](https://github.com/DigitalSecurity/btlejuice) ⚠️ Archived
 * (Unsupported) Btproxy [Github](https://github.com/conorpp/btproxy) ⭐ 545 | 🐛 9 | 🌐 Python | 📅 2020-02-24
 
@@ -255,7 +255,7 @@ Submit a PR if something is missing!
 
 ### Other
 
-* Uberducky (BLE-triggered rubber ducky) [Github](https://github.com/mikeryan/uberducky) ⭐ 121 | 🐛 2 | 🌐 C | 📅 2018-12-05
+* Uberducky (BLE-triggered rubber ducky) [Github](https://github.com/mikeryan/uberducky) ⭐ 120 | 🐛 2 | 🌐 C | 📅 2018-12-05
 * BLEBoy: BLE testing platform [Github](https://github.com/nccgroup/BLEBoy) ⭐ 49 | 🐛 3 | 🌐 C++ | 📅 2019-10-25
 * Wireshark: Protocol analyzer and packet capture [Link](https://www.wireshark.org/)
 * Frontline Wireless Protocol Suite (Windows only) [Link](http://www.fte.com/support/wps-download.aspx?demo=802.11\&iid=1y)
@@ -283,4 +283,4 @@ NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/pub
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
